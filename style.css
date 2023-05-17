@@ -86,6 +86,11 @@ form {
 @media (max-width:768px) {
     .wrapper {
         grid-template-columns: 1fr;
+        height: 180vh;
+    }
+    .right-content{
+        top: 55%;
+        
     }
 }
 
